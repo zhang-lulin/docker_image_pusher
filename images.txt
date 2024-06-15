@@ -5,7 +5,7 @@
 #支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist
 
-以下是已经构建的，构建前加#注释掉，避免重复注释
+#以下是已经构建的，构建前加#注释掉，避免重复注释
 #budtmo/docker-android
 #ubuntu:20.04
 #ubuntu:22.04
