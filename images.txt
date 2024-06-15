@@ -10,4 +10,5 @@
 #ubuntu:20.04
 #ubuntu:22.04
 
-redroid/redroid:10.0.0-latest
+#redroid/redroid:10.0.0-latest
+--platform=linux/arm64 ubuntu:18.04 
