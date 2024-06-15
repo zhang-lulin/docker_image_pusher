@@ -7,3 +7,4 @@ nginx
 
 budtmo/docker-android
 ubuntu:20.04
+ubuntu:22.04
