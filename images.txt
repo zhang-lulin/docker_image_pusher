@@ -14,4 +14,5 @@
 #--platform=linux/arm64 ubuntu:18.04 
 
 #--platform=linux/arm64 redroid/redroid:10.0.0-latest
-iceblacktea/redroid-arm64:12.0.0-240328
+#iceblacktea/redroid-arm64:12.0.0-240328
+ubuntu:16.04
